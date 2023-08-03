@@ -40,6 +40,13 @@ public class ValidateSubSequence {
     }
 
     /**
+     * Complexity Analysis
+     * Time Complexity: O(N), where N is the length of the array.
+     *
+     * Space Complexity: O(1).
+     */
+
+    /**
      * Test case
      * {
      *   "array": [5, 1, 22, 25, 6, -1, 8, 10],
